@@ -15,7 +15,7 @@
   "dependencies": {
     "html-loader": "^0.5.5",
     "ionicons": "^5.0.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "materialize-css": "^1.0.0",
     "vue": "^2.5.2",
     "vue-resource": "^1.5.1",
